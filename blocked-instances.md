@@ -6,7 +6,8 @@ instance has been unfairly blocked, please contact the administrators [term7](ht
 
 The purpose of this list is to be transparent towards our users, and to collaborate with other admins on identifying
 those instances that violate the Code of Conduct, or those that tend to contain bad actors, and who boost unwanted
-content into other instances. We started our instance with the blocklist used by chaos.social.
+content into other instances. We reviewd all entries in the blocklist used by chaos.social and decided to start our 
+inital instance with a copy of their blocklist in place.
 
 Instances that don't exist anymore are removed periodically.
 
