@@ -45,7 +45,7 @@ Blocked instances
 | kiwifarms.cc                | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
 | lolicon.rocks               | ⛔ | Lolicon |
-| meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
+| meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos |
 | midnightride.rs             | ⛔ | Discrimination |
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
 | nicecrew.digital            | ⛔ | Discrimination, racism, "free speech zone"² |
