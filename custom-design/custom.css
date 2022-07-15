@@ -1,0 +1,27 @@
+::selection {
+    color: white;
+    background: rgba(202,156,249,1);
+}
+.theme-mastodon-light {
+    background-color: rgba(222,224,212,1);
+}
+
+.account-card__actions__button .modal-button,
+.actions .btn,
+.button--block,
+.button-primary,
+.nav-button,
+.public-account-header__tabs__tabs__buttons .logo-button,
+.public-account-header__tabs__tabs__buttons .modal-button {
+    background-color: rgba(178,50,63,1) !important;
+}
+.nav-button {
+    color: #ffffff !important;
+}
+.label_input__append {
+    max-width: 160px !important;
+}
+.paragraph {
+    font-size: 19px;
+    font-weight: 600;
+}
