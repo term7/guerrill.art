@@ -6,6 +6,11 @@ You can see our current block/silence policy in [blocked-instances.md](blocked-i
 
 Css style modifications are in [custom.css](custom-design/custom.css).
 
-* * *
+# 
+
 
 Thanks to [chaos.social](https://github.com/chaossocial) for their work and inspiration!
+
+# Copyright & License
+
+Copyright (c) 2022 term7 - Released under the [GNU General Public License v3.0](LICENSE).
