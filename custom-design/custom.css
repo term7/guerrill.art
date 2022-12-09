@@ -2,21 +2,27 @@
     color: white;
     background: rgba(202,156,249,1);
 }
+.tabs-bar__wrapper,
 .theme-mastodon-light {
     background-color: rgba(222,224,212,1);
 }
-
-.account-card__actions__button .modal-button,
+.indent {
+    display: inline-block;
+    padding-left: 20px;
+}
+.public-account-header__tabs__tabs__buttons .modal-button,
+.public-account-header__tabs__tabs__buttons .logo-button,
 .actions .btn,
+.account-card__actions__button .modal-button,
 .button--block,
 .button-primary,
-.nav-button,
-.public-account-header__tabs__tabs__buttons .logo-button,
-.public-account-header__tabs__tabs__buttons .modal-button {
+.nav-button {
     background-color: rgba(178,50,63,1) !important;
 }
-.nav-button {
+.nav-button,
+.button {
     color: #ffffff !important;
+    border-color: transparent !important;
 }
 .label_input__append {
     max-width: 160px !important;
