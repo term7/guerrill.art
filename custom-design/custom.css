@@ -24,6 +24,9 @@
     color: #ffffff !important;
     border-color: transparent !important;
 }
+.button-tertiary {
+    background-color: rgba(178,50,63,1) !important;
+}
 .label_input__append {
     max-width: 160px !important;
 }
