@@ -6,7 +6,7 @@ Our current [site information](https://guerrill.art/about/more) can be seen in [
 
 Css style modifications are in [custom.css](custom-design/custom.css).
 
-Of you like our blocklist and you want to implement it on your Mastodon instance (thanks to chaos.social!), you can download it here: [domain-blocks.csv](domain-blocks.csv) 
+Of you like our blocklist and you want to implement it on your Mastodon instance (thanks to chaos.social!), you can download it here: [domain-blocks.csv](domain_blocks.csv) 
 
 # 
 
