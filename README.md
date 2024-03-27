@@ -16,5 +16,3 @@ Thanks to [chaos.social](https://github.com/chaossocial) for their work and insp
 # Copyright & License
 
 Copyright (c) 2022 term7 - Released under the [GNU General Public License v3.0](LICENSE).
-
-TEST FOR GITHUB
